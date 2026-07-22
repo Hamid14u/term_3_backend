@@ -1,2 +1,2 @@
 # term_3_backend
-I want to larn Github
+##Git and GitHub introduction
